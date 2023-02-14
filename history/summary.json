@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
     "name": "Server TeamSpeak",
-    "url": "ts.cyberlions-ita.eu",
+    "url": "164.132.251.188",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-team-speak",
     "status": "down",
-    "uptime": "14.23%",
-    "uptimeDay": "14.23%",
-    "uptimeWeek": "14.23%",
-    "uptimeMonth": "14.23%",
-    "uptimeYear": "14.23%",
+    "uptime": "8.65%",
+    "uptimeDay": "8.65%",
+    "uptimeWeek": "8.65%",
+    "uptimeMonth": "8.65%",
+    "uptimeYear": "8.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-14": 8
+      "2023-02-14": 13
     }
   }
 ]
