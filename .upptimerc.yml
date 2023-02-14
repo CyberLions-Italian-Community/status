@@ -11,7 +11,7 @@ sites:
   - name: Server TeamSpeak
     check: "tcp-ping"
     url: 164.132.251.188
-    port: 9987
+    port: 30033
     assignees:
       - TheGITofTeo997
   - name: Infrastruttura principale
@@ -30,7 +30,7 @@ status-website:
   name: Cyberlions ITA Status Page
   introTitle: "Cyberlions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
-  theme: dark
+  theme: night
   navbar:
     - title: Status
       href: /
