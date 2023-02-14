@@ -2,6 +2,8 @@
 owner: CyberLions-Italian-Community # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
+user-agent: CyberLions-Italian-Community
+
 sites:
   - name: Sito web
     url: https://cyberlions-ita.eu
@@ -30,7 +32,7 @@ status-website:
   name: Cyberlions ITA Status Page
   introTitle: "Cyberlions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
-  theme: night
+  theme: dark
   navbar:
     - title: Status
       href: /
