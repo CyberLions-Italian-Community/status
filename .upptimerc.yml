@@ -5,12 +5,18 @@ repo: status # The name of this repository
 sites:
   - name: Sito web
     url: https://cyberlions-ita.eu
-    assignees: # Users to assign downtime issues (optional)
+    assignees:
       - Trainax
       - TheGITofTeo997
   - name: Server TeamSpeak
     check: "tcp-ping"
-    url: 164.132.251.188
+    url: ts.cyberlions-ita.eu
+    port: 9987
+    assignees:
+      - TheGITofTeo997
+  - name: Infrastruttura principale
+    check: "tcp-ping"
+    url: 217.182.128.229
     port: 22
     assignees:
       - TheGITofTeo997
@@ -20,10 +26,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cyberlions-ita.eu/images/brown.png
   name: Cyberlions ITA Status Page
   introTitle: "Cyberlions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
+  theme: dark
   navbar:
     - title: Status
       href: /
