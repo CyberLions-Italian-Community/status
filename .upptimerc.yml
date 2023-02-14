@@ -35,7 +35,7 @@ status-website:
   cname: status.cyberlions-ita.eu
   # baseUrl: /status
   logoUrl: https://cyberlions-ita.eu/images/brown.png
-  name: Cyberlions Italian Community Status Page
+  name: CyberLions Italian Community Status Page
   introTitle: "CyberLions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
   theme: night
