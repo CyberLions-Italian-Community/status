@@ -10,6 +10,7 @@ sites:
       - TheGITofTeo997
   - name: Server TeamSpeak
     check: "tcp-ping"
+    port: 7
     url: ts.cyberlions-ita.eu
     assignees:
       - TheGITofTeo997
