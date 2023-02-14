@@ -10,32 +10,30 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 95,
-    "timeDay": 95,
-    "timeWeek": 95,
-    "timeMonth": 95,
-    "timeYear": 95,
+    "time": 128,
+    "timeDay": 128,
+    "timeWeek": 128,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
     "name": "Server TeamSpeak",
-    "url": "ts.cyberlions-ita.eu",
+    "url": "164.132.251.188",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-team-speak",
     "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 88,
     "timeDay": 88,
     "timeWeek": 88,
     "timeMonth": 88,
     "timeYear": 88,
-    "dailyMinutesDown": {
-      "2023-02-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Infrastruttura principale",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   }
 ]
