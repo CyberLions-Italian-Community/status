@@ -44,6 +44,34 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/CyberLions-Italian-Community/status
+      
+i18n:
+  url: "URL"
+  status: "Stato"
+  history: "Cronologia"
+  responseTime: "Tempo di risposta"
+  uptime: "Tempo di attività"
+  up: "🟩 Funzionante"
+  degraded: "🟨 Degradato"
+  down: "🟥 Non funzionante"
+  responseTimeGraphAlt: "Grafico del tempo di risposta"
+  ms: "ms"
+  responseTime: "Tempo di risposta"
+  responseTimeDay: "Tempo di risposta (24 ore)"
+  responseTimeWeek: "Tempo di risposta (7 giorni)"
+  responseTimeMonth: "Tempo di risposta (30 giorni)"
+  responseTimeYear: "Tempo di risposta (1 anno)"
+  uptime: "Tempo di attività"
+  uptimeDay: "Tempo di attività (24 ore)"
+  uptimeWeek: "Tempo di attività (7 giorni)"
+  uptimeMonth: "Tempo di attività (30 giorni)"
+  uptimeYear: "Tempo di attività (1 anno)"
+  liveStatus: "Stato in tempo reale"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Tutti i sistemi operativi"
+  degradedPerformance: "🟨 Prestazioni degradate"
+  completeOutage: "🟥 Interruzione completa"
+  partialOutage: "🟧 Interruzione parziale"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
