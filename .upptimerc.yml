@@ -73,7 +73,7 @@ i18n:
   incidentCommentSummary: "Inserito il $DATE da $AUTHOR"
   incidentCompleted: "Completato"
   incidentDetails: "Dettagli dell'incidente"
-  incidentFixed: "Fissato"
+  incidentFixed: "Risolto"
   incidentOngoing: "In corso"
   incidentOpenedAt: "Aperto il"
   incidentReport: "Resoconto incidente #$NUMBER →"
