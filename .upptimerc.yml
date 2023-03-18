@@ -112,7 +112,7 @@ i18n:
   scheduledMaintenance: "Manutenzione programmata"
   scheduledMaintenanceSummaryStarted: "Iniziato il $DATE per $DURATION minuti"
   scheduledMaintenanceSummaryStarts: "Inizierà il $DATE e durerà $DURATION minuti"
-  sevelDayResponseTime: "Tempo di risposta (7 giorni)"
+  sevelDayResponseTime: "Grafico complessivo del tempo di risposta"
   startedAt: "Iniziato il"
   startsAt: "Inizierà il"
   status: "Stato"
