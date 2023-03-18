@@ -56,7 +56,6 @@ i18n:
   down: "🟥 Non funzionante"
   responseTimeGraphAlt: "Grafico del tempo di risposta"
   ms: "ms"
-  responseTime: "Tempo di risposta"
   responseTimeDay: "Tempo di risposta (24 ore)"
   responseTimeWeek: "Tempo di risposta (7 giorni)"
   responseTimeMonth: "Tempo di risposta (30 giorni)"
