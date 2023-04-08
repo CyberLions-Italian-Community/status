@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 72,
-    "timeWeek": 120,
-    "timeMonth": 120,
+    "timeWeek": 110,
+    "timeMonth": 118,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 91,
-    "timeWeek": 127,
+    "time": 122,
+    "timeDay": 88,
+    "timeWeek": 117,
     "timeMonth": 116,
-    "timeYear": 123,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sinus-bot",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
-    "time": 122,
-    "timeDay": 91,
-    "timeWeek": 127,
-    "timeMonth": 116,
-    "timeYear": 122,
+    "uptimeYear": "99.55%",
+    "time": 121,
+    "timeDay": 86,
+    "timeWeek": 117,
+    "timeMonth": 115,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2023-03-02": 340
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 91,
-    "timeWeek": 127,
-    "timeMonth": 116,
-    "timeYear": 123,
+    "time": 122,
+    "timeDay": 86,
+    "timeWeek": 117,
+    "timeMonth": 115,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   }
 ]
