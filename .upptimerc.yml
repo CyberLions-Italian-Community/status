@@ -10,6 +10,11 @@ sites:
     assignees:
       - Trainax
       - TheGITofTeo997
+  - name: Pagina social
+    url: https://social.cyberlions-ita.eu
+    assignees:
+      - Trainax
+      - TheGITofTeo997
   - name: Server TeamSpeak
     check: "tcp-ping"
     url: 164.132.251.188
