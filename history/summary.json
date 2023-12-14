@@ -40,9 +40,9 @@
     "url": "164.132.251.188",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "server-team-speak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +51,18 @@
     "timeWeek": 128,
     "timeMonth": 122,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "SinusBot",
     "url": "217.182.128.229",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sinus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -70,6 +72,7 @@
     "timeMonth": 121,
     "timeYear": 118,
     "dailyMinutesDown": {
+      "2023-12-14": 0,
       "2023-03-02": 340
     }
   },
@@ -78,9 +81,9 @@
     "url": "217.182.128.229",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "infrastruttura-principale",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,6 +92,8 @@
     "timeWeek": 129,
     "timeMonth": 121,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   }
 ]
