@@ -58,19 +58,19 @@
     "url": "217.182.128.229",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sinus-bot",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 89,
-    "timeWeek": 111,
+    "timeDay": 91,
+    "timeWeek": 109,
     "timeMonth": 113,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2024-06-11": 0
+      "2024-06-11": 6
     }
   },
   {
