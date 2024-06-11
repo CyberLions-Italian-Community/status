@@ -58,9 +58,9 @@
     "url": "217.182.128.229",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sinus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 111,
     "timeMonth": 113,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-11": 0
+    }
   },
   {
     "name": "Infrastruttura principale",
