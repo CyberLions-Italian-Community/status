@@ -7,32 +7,27 @@ user-agent: CyberLions-Italian-Community
 sites:
   - name: Sito web
     url: https://cyberlions-ita.eu
-    logoUrl: images/brown.png
     assignees:
       - Trainax
       - TheGITofTeo997
   - name: Pagina social
     url: https://social.cyberlions-ita.eu
-    logoUrl: images/brown.png
     assignees:
       - Trainax
       - TheGITofTeo997
   - name: Server TeamSpeak
-    logoUrl: images/brown.png
     check: "tcp-ping"
     url: 164.132.251.188
     port: 30033
     assignees:
       - TheGITofTeo997
   - name: SinusBot
-    logoUrl: images/brown.png
     check: "tcp-ping"
     url: 217.182.128.229
     port: 8087
     assignees:
       - TheGITofTeo997
   - name: Infrastruttura principale
-    logoUrl: images/brown.png
     check: "tcp-ping"
     url: 217.182.128.229
     port: 22
@@ -44,7 +39,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cyberlions-ita.eu
   # baseUrl: /status
-  logoUrl: images/brown.png
+  logoUrl: https://cyberlions-ita.eu/images/brown.png
   name: CyberLions Italian Community Status Page
   introTitle: "CyberLions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
