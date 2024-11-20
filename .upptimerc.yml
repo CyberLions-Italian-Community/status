@@ -15,20 +15,30 @@ sites:
     assignees:
       - Trainax
       - TheGITofTeo997
+  - name: SinusBot
+    url: https://sinusbot.cyberlions-ita.eu
+    assignees:
+      - TheGITofTeo997
+  - name: Music Bot 1
+    url: https://bot1.cyberlions-ita.eu
+    assignees:
+      - TheGITofTeo997
+  - name: Music Bot 2
+    url: https://bot2.cyberlions-ita.eu
+    assignees:
+      - TheGITofTeo997
   - name: Server TeamSpeak
     check: "tcp-ping"
     url: 164.132.251.188
     port: 30033
-    assignees:
-      - TheGITofTeo997
-  - name: SinusBot
-    url: https://sinusbot.cyberlions-ita.eu
+    icon: https://cyberlions-ita.eu/images/brown.png
     assignees:
       - TheGITofTeo997
   - name: Infrastruttura principale
     check: "tcp-ping"
     url: 217.182.128.229
     port: 22
+    icon: https://cyberlions-ita.eu/images/brown.png
     assignees:
       - TheGITofTeo997
 
