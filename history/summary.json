@@ -61,19 +61,19 @@
     "url": "https://bot1.cyberlions-ita.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bot1.cyberlions-ita.eu.ico",
     "slug": "music-bot-1",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 225,
-    "timeWeek": 317,
-    "timeMonth": 328,
-    "timeYear": 327,
+    "time": 328,
+    "timeDay": 303,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 328,
     "dailyMinutesDown": {
-      "2025-04-28": 0
+      "2025-04-28": 6
     }
   },
   {
