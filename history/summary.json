@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 253,
-    "timeWeek": 182,
-    "timeMonth": 286,
-    "timeYear": 173,
+    "timeDay": 241,
+    "timeWeek": 181,
+    "timeMonth": 291,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 191,
-    "timeWeek": 102,
-    "timeMonth": 130,
-    "timeYear": 113,
+    "timeDay": 210,
+    "timeWeek": 110,
+    "timeMonth": 135,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 459,
-    "timeWeek": 325,
-    "timeMonth": 330,
-    "timeYear": 218,
+    "time": 193,
+    "timeDay": 391,
+    "timeWeek": 326,
+    "timeMonth": 325,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2024-11-18": 14,
       "2024-06-11": 6
@@ -61,18 +61,20 @@
     "url": "https://bot1.cyberlions-ita.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bot1.cyberlions-ita.eu.ico",
     "slug": "music-bot-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 383,
-    "timeWeek": 350,
-    "timeMonth": 339,
-    "timeYear": 329,
-    "dailyMinutesDown": {}
+    "time": 327,
+    "timeDay": 225,
+    "timeWeek": 317,
+    "timeMonth": 328,
+    "timeYear": 327,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Music Bot 2",
@@ -86,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 334,
-    "timeDay": 463,
-    "timeWeek": 330,
-    "timeMonth": 358,
+    "timeDay": 408,
+    "timeWeek": 332,
+    "timeMonth": 335,
     "timeYear": 334,
     "dailyMinutesDown": {}
   },
@@ -104,9 +106,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 150,
+    "timeDay": 156,
     "timeWeek": 113,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {}
   },
@@ -122,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 154,
+    "timeDay": 157,
     "timeWeek": 113,
-    "timeMonth": 115,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {}
   }
