@@ -63,18 +63,16 @@
     "slug": "music-bot-1",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
     "timeDay": 303,
     "timeWeek": 332,
     "timeMonth": 332,
     "timeYear": 328,
-    "dailyMinutesDown": {
-      "2025-04-28": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Music Bot 2",
