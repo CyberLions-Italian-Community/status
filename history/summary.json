@@ -4,18 +4,20 @@
     "url": "https://cyberlions-ita.eu",
     "icon": "https://icons.duckduckgo.com/ip3/cyberlions-ita.eu.ico",
     "slug": "sito-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 118,
-    "timeWeek": 201,
-    "timeMonth": 189,
-    "timeYear": 179,
-    "dailyMinutesDown": {}
+    "time": 170,
+    "timeDay": 625,
+    "timeWeek": 317,
+    "timeMonth": 218,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2025-06-21": 0
+    }
   },
   {
     "name": "Pagina social",
