@@ -40,9 +40,9 @@
     "url": "https://sinusbot.cyberlions-ita.eu",
     "icon": "https://icons.duckduckgo.com/ip3/sinusbot.cyberlions-ita.eu.ico",
     "slug": "sinus-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 306,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2025-08-11": 0,
       "2024-11-18": 14
     }
   },
