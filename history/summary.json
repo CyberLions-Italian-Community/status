@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cyberlions-ita.eu.ico",
     "slug": "sito-web",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 81,
-    "timeWeek": 134,
-    "timeMonth": 185,
-    "timeYear": 237,
+    "timeDay": 127,
+    "timeWeek": 136,
+    "timeMonth": 183,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2026-02-03": 52,
-      "2025-11-18": 121
+      "2026-02-03": 52
     }
   },
   {
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 132,
-    "timeWeek": 153,
-    "timeMonth": 165,
+    "timeDay": 105,
+    "timeWeek": 158,
+    "timeMonth": 159,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -44,19 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sinusbot.cyberlions-ita.eu.ico",
     "slug": "sinus-bot",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 427,
-    "timeDay": 257,
-    "timeWeek": 289,
-    "timeMonth": 412,
+    "timeDay": 361,
+    "timeWeek": 296,
+    "timeMonth": 410,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-11-18": 169,
-      "2025-10-10": 19
+      "2025-11-18": 35
     }
   },
   {
@@ -65,25 +63,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot1.cyberlions-ita.eu.ico",
     "slug": "music-bot-1",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "44.27%",
+    "uptime": "99.87%",
+    "uptimeDay": "62.64%",
     "uptimeWeek": "92.04%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "99.72%",
+    "uptimeYear": "99.82%",
     "time": 416,
-    "timeDay": 344,
-    "timeWeek": 326,
-    "timeMonth": 371,
+    "timeDay": 327,
+    "timeWeek": 325,
+    "timeMonth": 368,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-03-31": 690,
       "2026-03-30": 112,
       "2026-03-10": 51,
-      "2025-11-18": 142,
-      "2025-10-10": 18,
-      "2025-06-19": 39,
-      "2025-06-18": 24,
-      "2025-05-26": 413
+      "2025-11-18": 104
     }
   },
   {
@@ -93,20 +87,19 @@
     "slug": "music-bot-2",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "39.90%",
+    "uptimeDay": "62.64%",
     "uptimeWeek": "91.41%",
     "uptimeMonth": "98.02%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.82%",
     "time": 505,
-    "timeDay": 320,
-    "timeWeek": 326,
-    "timeMonth": 366,
+    "timeDay": 339,
+    "timeWeek": 325,
+    "timeMonth": 365,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2026-03-31": 690,
       "2026-03-30": 175,
-      "2025-11-18": 139,
-      "2025-10-10": 17
+      "2025-11-18": 101
     }
   },
   {
@@ -119,16 +112,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 90,
-    "timeWeek": 106,
-    "timeMonth": 119,
+    "timeWeek": 102,
+    "timeMonth": 117,
     "timeYear": 118,
-    "dailyMinutesDown": {
-      "2025-10-10": 16,
-      "2025-08-29": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Infrastruttura principale",
@@ -143,8 +133,8 @@
     "uptimeYear": "100.00%",
     "time": 117,
     "timeDay": 91,
-    "timeWeek": 106,
-    "timeMonth": 119,
+    "timeWeek": 103,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
