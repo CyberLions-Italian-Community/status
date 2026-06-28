@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 96,
-    "timeWeek": 158,
-    "timeMonth": 214,
-    "timeYear": 233,
+    "timeDay": 100,
+    "timeWeek": 155,
+    "timeMonth": 207,
+    "timeYear": 232,
     "dailyMinutesDown": {
       "2026-02-03": 52
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
-    "timeDay": 249,
-    "timeWeek": 144,
-    "timeMonth": 169,
+    "timeDay": 171,
+    "timeWeek": 161,
+    "timeMonth": 165,
     "timeYear": 190,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 338,
-    "timeWeek": 322,
-    "timeMonth": 367,
+    "time": 433,
+    "timeDay": 428,
+    "timeWeek": 340,
+    "timeMonth": 364,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-11-18": 35
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 428,
-    "timeDay": 312,
-    "timeWeek": 287,
-    "timeMonth": 350,
+    "timeDay": 308,
+    "timeWeek": 297,
+    "timeMonth": 343,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2025-11-18": 104,
@@ -86,15 +86,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot2.cyberlions-ita.eu.ico",
     "slug": "music-bot-2",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 508,
-    "timeDay": 412,
-    "timeWeek": 329,
-    "timeMonth": 360,
+    "timeDay": 433,
+    "timeWeek": 356,
+    "timeMonth": 364,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2025-11-18": 101,
@@ -116,7 +116,7 @@
     "time": 117,
     "timeDay": 90,
     "timeWeek": 112,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {}
   },
@@ -134,7 +134,7 @@
     "time": 117,
     "timeDay": 91,
     "timeWeek": 112,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 117,
     "dailyMinutesDown": {}
   }
