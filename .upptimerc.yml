@@ -39,14 +39,14 @@ sites:
     check: "tcp-ping"
     url: 164.132.251.188
     port: 30033
-    icon: https://cyberlions-ita.eu/images/brown.png
+    icon: https://cyberlions-ita.eu/images/main_CL_Alogo_Bold.png
     assignees:
       - TheGITofTeo997
   - name: Infrastruttura principale
     check: "tcp-ping"
     url: 217.182.128.229
     port: 80
-    icon: https://cyberlions-ita.eu/images/brown.png
+    icon: https://cyberlions-ita.eu/images/main_CL_Alogo_Bold.png
     assignees:
       - TheGITofTeo997
 
@@ -55,7 +55,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cyberlions-ita.eu
   # baseUrl: /status
-  logoUrl: https://cyberlions-ita.eu/images/brown.png
+  logoUrl: https://cyberlions-ita.eu/images/main_CL_Alogo_Bold.png
   name: CyberLions Italian Community Status Page
   introTitle: "CyberLions Italian Community Status Page"
   introMessage: "Qui puoi vedere lo stato dei nostri servizi"
