@@ -4,6 +4,10 @@ repo: status # The name of this repository
 
 user-agent: CyberLions-Italian-Community
 
+# Shared by the response-time charts (presentation only).
+graphBackgroundColor: "rgba(214, 175, 112, 0.18)"
+graphBorderColor: "#d6af70"
+
 sites:
   - name: Sito web
     url: https://cyberlions-ita.eu
@@ -55,18 +59,37 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cyberlions-ita.eu
   # baseUrl: /status
-  logoUrl: https://cyberlions-ita.eu/images/main_CL_Alogo_Bold.png
-  name: CyberLions Italian Community Status Page
-  introTitle: "CyberLions Italian Community Status Page"
-  introMessage: "Qui puoi vedere lo stato dei nostri servizi"
+  logoUrl: /cyberlions-logo.png
+  name: CyberLions · Stato dei servizi
+  favicon: /favicon.ico
+  introTitle: '<span class="cl-eyebrow">CYBERLIONS / STATO DEI SERVIZI</span>Il punto sui<br><em>nostri servizi.</em>'
+  introMessage: "Disponibilità, tempi di risposta e aggiornamenti sui servizi della community. Tutte le informazioni per ritrovarci, anche quando qualcosa non va."
   theme: night
+  # Loaded after Upptime's styles; assets/ is copied to the website root.
+  links:
+    - rel: stylesheet
+      href: /cyberlions.css
+  customHeadHtml: |
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@1&amp;display=swap">
+  metaTags:
+    - name: theme-color
+      content: "#131211"
+    - name: color-scheme
+      content: dark
+    - name: description
+      content: "Lo stato dei servizi CyberLions: disponibilità, tempi di risposta, incidenti e manutenzioni della community gaming italiana."
   navbar:
-    - title: Status
+    - title: Stato dei servizi
       href: /
+    - title: Community ↗
+      href: https://cyberlions-ita.eu/
     - title: GitHub
       href: https://github.com/CyberLions-Italian-Community/status
 
 i18n:
+  locale: it-IT
   activeIncidentSummary: "Aperto il $DATE con $POSTS post"
   activeIncidents: "Incidenti attivi"
   allSystemsOperational: "Tutti i sistemi operativi"
@@ -87,7 +110,7 @@ i18n:
   errorIntro: "Si è verificato un errore durante il tentativo di ottenere i dettagli sullo stato più recenti."
   errorText: "Puoi riprovare tra qualche istante."
   errorTitle: "Si è verificato un errore"
-  footer: "Questa pagina è [open source]($REPO), fornita da [Upptime](https://upptime.js.org)"
+  footer: 'CyberLions Italian Community · Una passione da condividere.<br>[Torna alla community ↗](https://cyberlions-ita.eu/) · [Assistenza](mailto:support@cyberlions-ita.eu)<br>Monitoraggio con [Upptime](https://upptime.js.org) · [Codice sorgente]($REPO)'
   history: "Cronologia"
   incidentBack: "← Torna a tutti gli incidenti"
   incidentClosedAt: "Chiuso il"
