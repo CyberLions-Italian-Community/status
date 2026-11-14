@@ -15,8 +15,8 @@ sites:
     assignees:
       - Trainax
       - TheGITofTeo997
-  - name: SinusBot
-    url: https://sinusbot.cyberlions-ita.eu
+  - name: CyberBot
+    url: https://cyberbot.cyberlions-ita.eu
     assignees:
       - TheGITofTeo997
   - name: Music Bot 1
